@@ -8,9 +8,9 @@ Analysis of pizza sales data to understand customer preferences, enhance marketi
 
 ### DATASET OVERVIEW
 
-****Source:** Open data source (https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
+**Source:** Open data source (https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
 
-****Tables Name:** Order details, Orders, Pizza types, Pizzas
+**Tables Name:** Order details, Orders, Pizza types, Pizzas
 
 **Key Fields:** order_id, date, time, order_id, pizza_id, quantity, size, category
 
